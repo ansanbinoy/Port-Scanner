@@ -4,4 +4,5 @@ try :
   sys("pip install socket")
 except KeyboardInterrupt :
   print ("[!] Installing Failed")
-  
+except IOError as err :
+  print ("err")
