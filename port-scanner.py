@@ -11,7 +11,7 @@ def banner():
 try :
 	print("\033[1;31;40m")
 	banner()
-	print ("\t \t\t<[----- coded By SHADOW ANON -----]>")
+	print ("\t \t\t<[----- coded By ansanbinoy -----]>")
 	print ("")
 	g = (colored("[~]",'green'))
 	y = ("\033[1;35m[+]")
